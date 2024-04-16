@@ -1,9 +1,7 @@
-![github-header-image](https://github.com/Luigi196362/Luigi196362/assets/111537773/00a84aa0-cc69-4897-8d52-7fc4314cd787)
-
-
 <h1 align="center">Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-Hi there! I'm Luis Enrique Romero Pérez, a software engineering student passionate about web and mobile development. I specialize in creating engaging and functional user experiences, both on the front-end and back-end.
+![github-header-image](https://github.com/Luigi196362/Luigi196362/assets/111537773/00a84aa0-cc69-4897-8d52-7fc4314cd787)
+
 
 <!--
 ## Highlighted Projects
